@@ -1,6 +1,6 @@
 # CodeClauseInternship_Stock_Market_Prediction
 
-The provided code appears to be a Python script for analyzing Tesla stock price data. Here's a description of what each part of the code does:
+Here's a description of what each part of the code does:
 
 1. **Importing Libraries**: The script starts by importing the necessary Python libraries, including Pandas, NumPy, and Matplotlib for data manipulation and visualization. It also imports Plotly for interactive plotting, as well as some modules for offline Plotly usage.
 
