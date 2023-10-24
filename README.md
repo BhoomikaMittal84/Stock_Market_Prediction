@@ -1,4 +1,4 @@
-# CodeClauseInternship_Stock_Market_Prediction
+# Stock_Market_Prediction
 
 Here's a description of what each part of the code does:
 
